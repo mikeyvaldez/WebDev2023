@@ -1,0 +1,1 @@
+This review was about void elements like the br tag and hr tag.
